@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\AndroidStudioProjects\Vocalization\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2dca79d0cf2b9de93a27031371b4d9b4d8e03f7e">
+        <dex dex="D:\Android\AndroidStudioProjects\Vocalization\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1b2a821653dc318f9a76acc6ca69b6db38e56a16\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\Vocalization\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f1cee1215fd2aa7c1c3f4504f7e706cb382a2f69">
+        <dex dex="D:\Android\AndroidStudioProjects\Vocalization\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_58f0ca1b33a0b50a18e543573bb811e5e68bdf7e\classes.dex" />
+    </item>
+
+</items>
